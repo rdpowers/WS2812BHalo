@@ -1,0 +1,346 @@
+Cmp-Mod V01 Created by PcbNew date = Fri 11 Oct 2013 20:51:35 EST
+
+BeginCmp
+TimeStamp = /52575223;
+Reference = C1;
+ValeurCmp = 100nF;
+IdModule  = _S2_SM0603_Capa;
+EndCmp
+
+BeginCmp
+TimeStamp = /52575253;
+Reference = C2;
+ValeurCmp = 100nF;
+IdModule  = _S2_SM0603_Capa;
+EndCmp
+
+BeginCmp
+TimeStamp = /52575283;
+Reference = C3;
+ValeurCmp = 100nF;
+IdModule  = _S2_SM0603_Capa;
+EndCmp
+
+BeginCmp
+TimeStamp = /525752B3;
+Reference = C4;
+ValeurCmp = 100nF;
+IdModule  = _S2_SM0603_Capa;
+EndCmp
+
+BeginCmp
+TimeStamp = /525752E3;
+Reference = C5;
+ValeurCmp = 100nF;
+IdModule  = _S2_SM0603_Capa;
+EndCmp
+
+BeginCmp
+TimeStamp = /52575313;
+Reference = C6;
+ValeurCmp = 100nF;
+IdModule  = _S2_SM0603_Capa;
+EndCmp
+
+BeginCmp
+TimeStamp = /525756A3;
+Reference = C7;
+ValeurCmp = 100nF;
+IdModule  = _S2_SM0603_Capa;
+EndCmp
+
+BeginCmp
+TimeStamp = /525756D3;
+Reference = C8;
+ValeurCmp = 100nF;
+IdModule  = _S2_SM0603_Capa;
+EndCmp
+
+BeginCmp
+TimeStamp = /52575703;
+Reference = C9;
+ValeurCmp = 100nF;
+IdModule  = _S2_SM0603_Capa;
+EndCmp
+
+BeginCmp
+TimeStamp = /52575733;
+Reference = C10;
+ValeurCmp = 100nF;
+IdModule  = _S2_SM0603_Capa;
+EndCmp
+
+BeginCmp
+TimeStamp = /52575763;
+Reference = C11;
+ValeurCmp = 100nF;
+IdModule  = _S2_SM0603_Capa;
+EndCmp
+
+BeginCmp
+TimeStamp = /52575793;
+Reference = C12;
+ValeurCmp = 100nF;
+IdModule  = _S2_SM0603_Capa;
+EndCmp
+
+BeginCmp
+TimeStamp = /525758E3;
+Reference = C13;
+ValeurCmp = 100nF;
+IdModule  = _S2_SM0603_Capa;
+EndCmp
+
+BeginCmp
+TimeStamp = /52575913;
+Reference = C14;
+ValeurCmp = 100nF;
+IdModule  = _S2_SM0603_Capa;
+EndCmp
+
+BeginCmp
+TimeStamp = /52575943;
+Reference = C15;
+ValeurCmp = 100nF;
+IdModule  = _S2_SM0603_Capa;
+EndCmp
+
+BeginCmp
+TimeStamp = /52575973;
+Reference = C16;
+ValeurCmp = 100nF;
+IdModule  = _S2_SM0603_Capa;
+EndCmp
+
+BeginCmp
+TimeStamp = /525759A3;
+Reference = C17;
+ValeurCmp = 100nF;
+IdModule  = _S2_SM0603_Capa;
+EndCmp
+
+BeginCmp
+TimeStamp = /525759D3;
+Reference = C18;
+ValeurCmp = 100nF;
+IdModule  = _S2_SM0603_Capa;
+EndCmp
+
+BeginCmp
+TimeStamp = /52575B23;
+Reference = C19;
+ValeurCmp = 100nF;
+IdModule  = _S2_SM0603_Capa;
+EndCmp
+
+BeginCmp
+TimeStamp = /52575B53;
+Reference = C20;
+ValeurCmp = 100nF;
+IdModule  = _S2_SM0603_Capa;
+EndCmp
+
+BeginCmp
+TimeStamp = /52575B83;
+Reference = C21;
+ValeurCmp = 100nF;
+IdModule  = _S2_SM0603_Capa;
+EndCmp
+
+BeginCmp
+TimeStamp = /52575BB3;
+Reference = C22;
+ValeurCmp = 100nF;
+IdModule  = _S2_SM0603_Capa;
+EndCmp
+
+BeginCmp
+TimeStamp = /52575BE3;
+Reference = C23;
+ValeurCmp = 100nF;
+IdModule  = _S2_SM0603_Capa;
+EndCmp
+
+BeginCmp
+TimeStamp = /52575C13;
+Reference = C24;
+ValeurCmp = 100nF;
+IdModule  = _S2_SM0603_Capa;
+EndCmp
+
+BeginCmp
+TimeStamp = /52573B56;
+Reference = K1;
+ValeurCmp = CONN_3;
+IdModule  = _S2_PIN_ARRAY_3X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /5257522D;
+Reference = U1;
+ValeurCmp = WS2812B;
+IdModule  = _HALO_WS2812B;
+EndCmp
+
+BeginCmp
+TimeStamp = /5257525D;
+Reference = U2;
+ValeurCmp = WS2812B;
+IdModule  = _HALO_WS2812B;
+EndCmp
+
+BeginCmp
+TimeStamp = /5257528D;
+Reference = U3;
+ValeurCmp = WS2812B;
+IdModule  = _HALO_WS2812B;
+EndCmp
+
+BeginCmp
+TimeStamp = /525752BD;
+Reference = U4;
+ValeurCmp = WS2812B;
+IdModule  = _HALO_WS2812B;
+EndCmp
+
+BeginCmp
+TimeStamp = /525752ED;
+Reference = U5;
+ValeurCmp = WS2812B;
+IdModule  = _HALO_WS2812B;
+EndCmp
+
+BeginCmp
+TimeStamp = /5257531D;
+Reference = U6;
+ValeurCmp = WS2812B;
+IdModule  = _HALO_WS2812B;
+EndCmp
+
+BeginCmp
+TimeStamp = /525756AD;
+Reference = U7;
+ValeurCmp = WS2812B;
+IdModule  = _HALO_WS2812B;
+EndCmp
+
+BeginCmp
+TimeStamp = /525756DD;
+Reference = U8;
+ValeurCmp = WS2812B;
+IdModule  = _HALO_WS2812B;
+EndCmp
+
+BeginCmp
+TimeStamp = /5257570D;
+Reference = U9;
+ValeurCmp = WS2812B;
+IdModule  = _HALO_WS2812B;
+EndCmp
+
+BeginCmp
+TimeStamp = /5257573D;
+Reference = U10;
+ValeurCmp = WS2812B;
+IdModule  = _HALO_WS2812B;
+EndCmp
+
+BeginCmp
+TimeStamp = /5257576D;
+Reference = U11;
+ValeurCmp = WS2812B;
+IdModule  = _HALO_WS2812B;
+EndCmp
+
+BeginCmp
+TimeStamp = /5257579D;
+Reference = U12;
+ValeurCmp = WS2812B;
+IdModule  = _HALO_WS2812B;
+EndCmp
+
+BeginCmp
+TimeStamp = /525758ED;
+Reference = U13;
+ValeurCmp = WS2812B;
+IdModule  = _HALO_WS2812B;
+EndCmp
+
+BeginCmp
+TimeStamp = /5257591D;
+Reference = U14;
+ValeurCmp = WS2812B;
+IdModule  = _HALO_WS2812B;
+EndCmp
+
+BeginCmp
+TimeStamp = /5257594D;
+Reference = U15;
+ValeurCmp = WS2812B;
+IdModule  = _HALO_WS2812B;
+EndCmp
+
+BeginCmp
+TimeStamp = /5257597D;
+Reference = U16;
+ValeurCmp = WS2812B;
+IdModule  = _HALO_WS2812B;
+EndCmp
+
+BeginCmp
+TimeStamp = /525759AD;
+Reference = U17;
+ValeurCmp = WS2812B;
+IdModule  = _HALO_WS2812B;
+EndCmp
+
+BeginCmp
+TimeStamp = /525759DD;
+Reference = U18;
+ValeurCmp = WS2812B;
+IdModule  = _HALO_WS2812B;
+EndCmp
+
+BeginCmp
+TimeStamp = /52575B2D;
+Reference = U19;
+ValeurCmp = WS2812B;
+IdModule  = _HALO_WS2812B;
+EndCmp
+
+BeginCmp
+TimeStamp = /52575B5D;
+Reference = U20;
+ValeurCmp = WS2812B;
+IdModule  = _HALO_WS2812B;
+EndCmp
+
+BeginCmp
+TimeStamp = /52575B8D;
+Reference = U21;
+ValeurCmp = WS2812B;
+IdModule  = _HALO_WS2812B;
+EndCmp
+
+BeginCmp
+TimeStamp = /52575BBD;
+Reference = U22;
+ValeurCmp = WS2812B;
+IdModule  = _HALO_WS2812B;
+EndCmp
+
+BeginCmp
+TimeStamp = /52575BED;
+Reference = U23;
+ValeurCmp = WS2812B;
+IdModule  = _HALO_WS2812B;
+EndCmp
+
+BeginCmp
+TimeStamp = /52575C1D;
+Reference = U24;
+ValeurCmp = WS2812B;
+IdModule  = _HALO_WS2812B;
+EndCmp
+
+EndListe
