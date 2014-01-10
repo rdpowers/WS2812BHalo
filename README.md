@@ -7,7 +7,7 @@ The interior cut may be resized or removed entirely to vary the disk. Watch your
 
 Other circular arrangements may be calculated using the Positions.ods spreadsheet. Enjoy.
 
-![WS2812BHalo Image](/WS2812BHalo.png "An open source ring of 24 WS2812B LEDs!")
+![WS2812BHalo Image](https://raw2.github.com/rdpowers/WS2812BHalo/master/WS2812BHalo.png "An open source ring of 24 WS2812B LEDs!")
 
 
 CREDITS
